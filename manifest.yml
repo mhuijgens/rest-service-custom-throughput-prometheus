@@ -1,0 +1,9 @@
+---
+applications:
+  - name: autoscaler-test-custom-metrics
+    buildpacks:
+      - java_buildpack_offline_rabo_latest
+    memory: 1GB
+    disk_quota: 1GB
+    instances: 1
+    path: target/rest-service-0.0.1-SNAPSHOT.jar

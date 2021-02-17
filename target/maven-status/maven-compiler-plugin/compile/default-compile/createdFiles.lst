@@ -1,0 +1,6 @@
+com/example/restservice/Greeting.class
+com/example/restservice/metrics/PerformanceMetricsConfiguration.class
+com/example/restservice/RestServiceApplication.class
+com/example/restservice/metrics/CustomThroughputGauge.class
+com/example/restservice/metrics/RequestStatistics.class
+com/example/restservice/GreetingController.class
